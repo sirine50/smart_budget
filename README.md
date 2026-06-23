@@ -22,7 +22,6 @@ SmartBudget AI is a full-stack web application that uses a custom Natural Langua
 uvicorn backend.main:app --reload
 
 ## 2. Frontend Setup
-
 cd frontend
 npm install
 npm run dev
