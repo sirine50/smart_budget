@@ -15,10 +15,10 @@ SmartBudget AI is a full-stack web application that uses a custom Natural Langua
 # Local Setup Instructions
 
 ## 1. Backend Setup
-# Activate virtual environment (Windows example)
+### Activate virtual environment (Windows example)
 .\venv\Scripts\activate
 
-# Start the API server
+### Start the API server
 uvicorn backend.main:app --reload
 
 ## 2. Frontend Setup
